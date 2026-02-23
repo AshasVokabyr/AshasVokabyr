@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Rybakov</h1>
+<h1 align="center">Hi 👋, I'm Ashas Vokabyr</h1>
 <h3 align="center">A passionate femboy</h3>
 
 - 🔭 I’m currently working on **SOLIDgear**
