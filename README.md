@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Rybakov</h1>
 <h3 align="center">A passionate femboy</h3>
-
+![image_URL](https://github.com/AshasVokabyr/AshasVokabyr/blob/main/Screenshot%20from%202026-02-23%2022-02-30.png)
 - 🔭 I’m currently working on **SOLIDgear**
 
 - 🌱 I’m currently learning **C, JavaScript, Python FastAPI**
