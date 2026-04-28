@@ -9,12 +9,10 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 - 🔭 I’m currently contributing to **SOLIDgear**
 - 🌱 I’m currently learning:
   - **Python FASTapi**
-  - **PHP**
-  - **C**
   - **JavaScript**
 - 🛠️ My daily tools & languages:
   - **Linux** (daily driver)
-  - **C#**, **Python**, **PHP**, **C**, **JavaScript**
+  - **C#**, **Python**, **JavaScript**
   - **MySQL**, **Transact SQL**, **PostgreSQL**, **SQLite**
   - **Docker**, **Pandas**
   - **HTML**, **CSS**
@@ -32,8 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,9 +41,9 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshasVokabyr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshasVokabyr&show_icons=true&theme=radical&cache_seconds=43200" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshasVokabyr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshasVokabyr&layout=compact&theme=radical&cache_seconds=43200" alt="Top Languages" />
 </p>
 
 ---
