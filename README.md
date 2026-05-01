@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshasVokabyr&show_icons=true&theme=radical&t=12345" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshasVokabyr&show_icons=true&theme=radical&cache_seconds=43200" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshasVokabyr&layout=compact&theme=radical&cache_seconds=43200" alt="Top Languages" />
 </p>
