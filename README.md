@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently contributing to **SOLIDgear** and MisisTube
+- 🔭 I’m currently contributing to **SOLIDgear** and **MisisTube**
 - 🌱 I’m currently learning:
   - **Python FASTapi**
   - **JavaScript**
