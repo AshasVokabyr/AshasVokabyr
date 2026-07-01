@@ -45,4 +45,4 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+⭐️ *“Nothing ever happens.”*
