@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshasVokabyr&layout=compact&theme=dark&langs_count=8&hide_title=true&cache_seconds=0" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshasVokabyr&theme=dark" alt="Top Languages" />
 
 </div>
 
