@@ -60,16 +60,6 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshasVokabyr&theme=dark" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 Contributing to **SOLIDgear**
