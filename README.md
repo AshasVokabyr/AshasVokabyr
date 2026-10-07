@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
   - **Python**, **JavaScript**
   - **MySQL**, **Transact SQL**, **PostgreSQL**, **SQLite**
   - **Docker**, **Pydantic**
+  - **Pytest**, **Locust**, **NumPy**, **Pandas**
   - **HTML**, **CSS**
 
 ---
@@ -40,6 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-6BA539?style=for-the-badge&logo=locust&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
