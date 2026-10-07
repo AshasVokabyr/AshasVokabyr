@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer and currently a contrib
 - 🔭 I’m currently contributing to **SOLIDgear**
 - 🌱 I’m currently learning:
   - **C**
+  - **Go**
+  - **Flutter**
 - 🛠️ My daily tools & languages:
   - **Linux** (daily driver)
   - **Python**, **JavaScript**
